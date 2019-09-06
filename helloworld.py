@@ -1,5 +1,5 @@
 print("Haoran")
 a = 3
 b = 5
-print("Sum = " + a+b)
-print("Average = " + (a+b)/2)
+print("Sum = " + str(a+b))
+print("Average = " + str((a+b)/2))
